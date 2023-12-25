@@ -24,9 +24,12 @@ There are different types of tuner pegs that you can use depending on the guitar
 
 ## Electronics
 ### Pickups
+* 
 
 ### Potentiometer
+* Log vs Linear Pots
+* 100k vs 500k pots
 
 ### 3Way/5Way Blade Switch
-
+* 
 
