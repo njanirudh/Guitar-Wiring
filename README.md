@@ -1,5 +1,6 @@
 Personal documentation for modding a guitar.
 
+----------------
 ## Bridge
 Depending on the guitar select the  
 
@@ -10,6 +11,7 @@ There are different types of tuner pegs that you can use depending on the guitar
 * Different gear ratios
 * With/without staggered-height posts
 
+----------------
 # Guitar-Wiring (Electronics)
 
 ## Tools:
@@ -22,14 +24,17 @@ There are different types of tuner pegs that you can use depending on the guitar
   * Solid core wire
   * Multi strand wire
 
+----------------
 ## Electronics
 ### Pickups
-* 
+* Humbucker
+* Single Coil
+* P90
 
 ### Potentiometer
 * Log vs Linear Pots
 * 100k vs 500k pots
 
 ### 3Way/5Way Blade Switch
-* 
 
+----------------
